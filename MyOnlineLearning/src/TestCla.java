@@ -16,6 +16,7 @@ public class TestCla
 		CheckMerge chc = new CheckMerge();
 		chc.merge();
 		
+		
 
 	}
 
