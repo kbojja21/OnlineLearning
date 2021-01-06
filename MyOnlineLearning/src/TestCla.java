@@ -4,6 +4,11 @@ class CheckMerge
 	{
 		System.out.println("in merge from local");
 	}
+	
+	public void merge2()
+	{
+		
+	}
 }
 
 public class TestCla 
