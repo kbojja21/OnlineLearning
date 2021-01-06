@@ -2,7 +2,7 @@ class CheckMerge
 {
 	public void merge()
 	{
-		
+		System.out.println("in merge");
 	}
 }
 
@@ -13,6 +13,8 @@ public class TestCla
 	{
 		// Test class to check the merge issue
 		
+		CheckMerge chc = new CheckMerge();
+		chc.merge();
 		
 
 	}
