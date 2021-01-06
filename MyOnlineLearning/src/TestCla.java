@@ -2,7 +2,7 @@ class CheckMerge
 {
 	public void merge()
 	{
-		System.out.println("in merge");
+		System.out.println("in merge from local");
 	}
 }
 
